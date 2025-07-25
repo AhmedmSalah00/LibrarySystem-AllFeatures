@@ -1,0 +1,4 @@
+BookID,Title,Author,Genre,Year of Publication,Stock Count,Shelf Number
+"BK001","far","john","sad","1999","5","7"
+"BK002","hard","charles","comedy","1777","5","4"
+"BK003","pride","charles","story","1454","8","7"
